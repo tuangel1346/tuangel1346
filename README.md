@@ -10,12 +10,14 @@ competition risks.
 
 ## Services
 
-- Manual GitHub bounty due-diligence report: **USD 25 equivalent in BTC**
+- Manual GitHub bounty due-diligence report: **USD 25 in USDC or BTC equivalent**
 - Small Python automation or test fix: quoted after scope review
 
 Payment and scope are agreed before work begins. Open a
 [service request](https://github.com/tuangel1346/bounty-sentry/issues/new) to get
 started.
+
+USDC on Base: [secure payment link](https://agentwallet.fluxapay.xyz/pay/paymentlink/pl_ibN5WeuUsrYJwC1f5no12K5t)
 
 BTC: `bc1q5nrv64jchep3hpqptvwmume8rkw68937zftfpa`
 
