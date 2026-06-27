@@ -10,6 +10,7 @@ competition risks.
 
 ## Services
 
+- Quick GitHub bounty risk snapshot: **USD 5 in USDC** — [buy now](https://agentwallet.fluxapay.xyz/pay/paymentlink/pl_4bCWVPRd5u6hE4QweEmBNSJ6)
 - Manual GitHub bounty due-diligence report: **USD 25 in USDC or BTC equivalent**
 - Small Python automation or test fix: quoted after scope review
 
